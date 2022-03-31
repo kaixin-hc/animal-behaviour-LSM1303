@@ -1,5 +1,5 @@
 {
-    "baseUrl": "",
+    "baseUrl": "animal-behaviour-LSM1303/",
     "titlePrefix": "",
     "ignore": [
         "_markbind/layouts/*",

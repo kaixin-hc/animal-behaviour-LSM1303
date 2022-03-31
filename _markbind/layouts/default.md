@@ -20,10 +20,11 @@
 <div id="flex-body">
   <nav id="site-nav" class="fixed-header-padding">
     <div class="site-nav-top">
-      <div class="font-weight-bold mb-2" style="font-size: 1.25rem;">Template</div>
+      <div class="font-weight-bold mb-2" style="font-size: 1.25rem;">Contents</div>
     </div>
     <div class="nav-component slim-scroll">
       <site-nav>
+
 * [Index]({{ baseUrl }}/index.html)
 * [Introductory Lecture]({{ baseUrl }}/notes/Introductory-Lecture.html)
 * [Animal Welfare]({{ baseUrl }}/notes/Animal-Welfare.html)

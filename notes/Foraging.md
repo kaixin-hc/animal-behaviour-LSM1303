@@ -1,9 +1,9 @@
 # Foraging
 
-<aside>
+<box>
 🧠 About
 
-</aside>
+</box>
 
 ---
 
@@ -83,10 +83,10 @@ foraging consists of multiple steps:
 5. Time of day (preferred times are 700–800 hours and 1600–1800 hours)
     - not going to hunt at night — dangerous for fast moving animal to be running over bumpy land when you can’t see the bumps.
 
-<aside>
+<box>
 📎 african savannah is very competitive. need to chase away othersand protect their young.
 
-</aside>
+</box>
 
 ### Cheetah videos
 
@@ -145,10 +145,10 @@ Plants provide cues for flower-visiting animals: colour contrast, bait (nectar),
 
 ## Herbivory
 
-<aside>
+<box>
 📌 distinguish between browsers and grazers.
 
-</aside>
+</box>
 
 - browsers (above ground; leaves, bark, stems; too high?)
 - grazers (on ground; seasonal cover by snow?)
@@ -234,10 +234,10 @@ Animals move from place to place, and in each location they might prey on differ
 
 ### How long to stay in a patch? Charnov's marginal value theorem
 
-<aside>
+<box>
 📌 works via latent learning
 
-</aside>
+</box>
 
 1. how much food is in the next patch? (average richness of the patches in the area)
 2. how far away is the next patch? (distance to the nearest patch that matches the average richness)

@@ -1,9 +1,9 @@
 # Animal Welfare
 
-<aside>
+<box>
 📌 Where’s your place in nature? Egocentric or controlled? Western Philosophy tends to hold up an egocentric view. Buddhism  and Jainism revere life, and a large number of them are encouraged by their religion on the other hand to not eat meat
 
-</aside>
+</box>
 
 # Some books and works
 

@@ -1,9 +1,9 @@
 # Introductory Lecture
 
-<aside>
+<box>
 🧠 About
 
-</aside>
+</box>
 
 ---
 
@@ -41,10 +41,10 @@ green patch - central catchment nature reserve. Freshwater crabs carry only a fe
 
 consultations with nature
 
-<aside>
+<box>
 🏣 try to convince them to keep the best patch of nature to compromise with development. we all live in spaces where forests were cleared - and it makes way more sense to save the best patches of forest, rather than planting forest anew.
 
-</aside>
+</box>
 
 - Biodiversity roundtable of Singapore → inform policies, wildlife and habitat management and development in singapore
   - examples of engagement in Singapore

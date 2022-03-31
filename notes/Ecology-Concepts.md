@@ -38,10 +38,10 @@ iii) or a combination of both
 
 ## Stimulus and response
 
-<aside>
+<box>
 🧠 All behaviour is a reaction to stimulus.
 
-</aside>
+</box>
 
 - Take note of context: Singapore does have seasonality!
 - Singapore has monsoon seasons. in february its one of the drier periods.
@@ -52,10 +52,10 @@ iii) or a combination of both
 
 fitness could be shown by how many offspring it hsa. the bishan park otters have 4-6 per litter, but the others do not?
 
-<aside>
+<box>
 📌 A population has variance, evolution lets these variations be passed on
 
-</aside>
+</box>
 
 ## Territoriality
 
@@ -85,10 +85,10 @@ Categories include
 - Adaptive change in individual behaviour is usually due to learning
   - example: otters who learn how to cross the road. this gives them more opportunities to move habitat
 
-<aside>
+<box>
 📌 Habituation: when an author learns not to respond to a particular stimulus
 
-</aside>
+</box>
 
 - the wild red junglefowl will flee, but if they get used to you they'll start to just ignore you.
 

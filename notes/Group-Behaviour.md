@@ -1,9 +1,9 @@
 # Group Behaviour
 
-<aside>
+<box>
 🧠 About
 
-</aside>
+</box>
 
 ---
 
@@ -12,10 +12,10 @@
 > An aggregation of individuals, of the same species, numbering two to the thousands, in permanent or temporary associations, in ordered or unordered groups, conferring some benefit to the individual
 >
 
-<aside>
+<box>
 📌 cost VS benefit. When does natural selection favour a certain behaviour?
 
-</aside>
+</box>
 
 Pay attention to : positions of males and females. position of the adults. benefits to the individuals (which is necessary in all social groups), size
 

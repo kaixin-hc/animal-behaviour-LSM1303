@@ -2,10 +2,10 @@
 
 # courtship
 
-<aside>
+<box>
 📌 Courtship:
 
-</aside>
+</box>
 
 ## 419: asexual vs having sex
 
@@ -27,10 +27,10 @@ Sexual:
 
 ## 448 Finding a Mate Steps - a summary
 
-<aside>
+<box>
 🕶️ (many selection mechanisms)
 
-</aside>
+</box>
 
 1. Attract a mate (inter-sexual)
     - See Communication:
@@ -110,10 +110,10 @@ Frogs + bats
 - The sexual selection of the females, caues this
   - the females ovulate during a short period of time and is in high prey abundance, so the males if they want to be able to fertilize the female, they must be having sex at this time right and there's a lot of competition for a female. So then, if you have a high work rate then there's a high chance you're able to pass your genes along.
 
-<aside>
+<box>
 😓 typical of species which have shorter mating seasons - they'll have very proportionally much larger testes so they pump out a lot of sperm within a short period of time
 
-</aside>
+</box>
 
 # TWO: convince the mate to mate
 
@@ -139,10 +139,10 @@ Goals of synchronity:
 
 ### Make sure the time is right to mate
 
-<aside>
+<box>
 🕶️ courtship dances are interactive fixed action patterns.
 
-</aside>
+</box>
 
 - Three-spined stickleback
   - he prepared a nest (stay at home husband,) put on a display and then entice the female with his zig-zag dancing (Fixed AP for female), stimulating egg deposition,
@@ -152,15 +152,15 @@ Goals of synchronity:
 
 # THREE: sexual selection
 
-<aside>
+<box>
 🕶️ tradeoffs. Loud and bright colours and displays work for the animals bc it shows their fitness but predators can catch on to this + its a lot of energy
 
-</aside>
+</box>
 
-<aside>
+<box>
 1️⃣ Male Competition —> males compete with each other for access to females: favours large size, armaments which enhance a males ability to fight
 
-</aside>
+</box>
 
 ## Bighorn Sheep
 
@@ -174,10 +174,10 @@ Goals of synchronity:
 
 ## Elephant seal
 
-<aside>
+<box>
 2️⃣ Female Choice —> males compete to win over a mate : favours characteristics the females find attractive like vivid colours, intricate courtship displays
 
-</aside>
+</box>
 
 ## Spiders
 

@@ -1,7 +1,5 @@
 # Glossary: Animals
 
-[Glossary of Concepts](Glossary%20of%20Concepts.md)
-
 # Singapore Animals
 
 - Which of these animals have returned to Singapore after an absence of many years?
@@ -73,24 +71,24 @@ when cats live together on large farms → though they are normally solitary, th
   - cats and dogs, pls don't hit ur dog on the head
   - cat video:
 
-        Orange cat
-        -expanding shoulders, raising height to look more threatening
-        -loudly yowling at black cat
+    Orange cat
+    - expanding shoulders, raising height to look more threatening
+    - loudly yowling at black cat
 
-        Black cat
-        -tucked his limbs in, tail curled around base, defensive mode
-        -ready for action, not making itself widely available
-        When orange yowling escalated in pitch and loudness, black cat which was previously avoiding eye contact had to pay attention. Tail twitched and looked up. Did not escalate into fight; cats likely knew each other and black cat knew orange was not going to fight
+    Black cat
+    - tucked his limbs in, tail curled around base, defensive mode
+    - ready for action, not making itself widely available
+    When orange yowling escalated in pitch and loudness, black cat which was previously avoiding eye contact had to pay attention. Tail twitched and looked up. Did not escalate into fight; cats likely knew each other and black cat knew orange was not going to fight
 
   - cat video 2
 
-        Happy cat: tail up, eyes alert, brisk walk
-        Aggressive: Halloween cat posture, ears pointed up, direct
-        Playful: Fast, engagement of cats or people in play
-        Insecure: Avoids contact, looks away, nervous grooming, occurs in smaller cats
-        Confident: curved tail tip, ears forward, alert eyes
-        Scared: Tail down, slinking movements, retreat
-        Curious: Alert, tail in air, eager to investigate
+    - Happy cat: tail up, eyes alert, brisk walk
+    - Aggressive: Halloween cat posture, ears pointed up, direct
+    - Playful: Fast, engagement of cats or people in play
+    - Insecure: Avoids contact, looks away, nervous grooming, occurs in smaller cats
+    - Confident: curved tail tip, ears forward, alert eyes
+    - Scared: Tail down, slinking movements, retreat
+    - Curious: Alert, tail in air, eager to investigate
 
     ![glossary/Untitled%201.png](glossary/Untitled%201.png)
 
@@ -149,7 +147,7 @@ v. Territoriality.
 
     Fear grin
 
-![Glossary%20o%209b622/Untitled.png](Glossary%20o%209b622/Untitled.png)
+![glossary/Untitled.png](glossary/Untitled.png)
 
 This is a submissive grin, not a threat.
 
@@ -231,10 +229,10 @@ Social group: pair (lecture 4)
 
     student measured 4 individual mudskippers maintaining their territory at low tide. the mudskipper uses the low tide to hunt, with its eyes on the top of the head, able to walk around
 
-    <aside>
+    <box>
     💡 mudskippers excavate the burrows, and navigate on their fins, and breath through their gills and skin when in the water. in water, fins just help them balance and navigate
 
-    </aside>
+    </box>
 
     from their burrow and the surrounding areas, they lie in wait to ambush crabs.
 
@@ -584,10 +582,10 @@ Sprematheca
 
 # Mantis
 
-<aside>
+<box>
 🌍 Male submissiveness may not inherently increase male reproductive success. Instead, cautious and fit males escape to mate with multiple females
 
-</aside>
+</box>
 
 - Captive studies:
   - Sexual cannibalism by female hunters with predatory response during courtship.
@@ -692,10 +690,10 @@ Species with suicidal reproduction have shorter mating seasons and larger testes
 
 # Fish
 
-<aside>
+<box>
 🕶️ courtship dances are interactive fixed action patterns.
 
-</aside>
+</box>
 
 Three-spined stickleback
 

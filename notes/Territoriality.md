@@ -10,19 +10,19 @@ home range — area in which an animal will normally live: space to find food, a
 
 territoriality: must stay in the same place
 
-<aside>
+<box>
 💡 how to tell? Map it out to see if its exclusive. cats followed exclusive territory— they will exclude new arrivals to some degree. territory is a space that is defended.
 
-</aside>
+</box>
 
 - some animals, confined, can do with a smaller space, since they can get enough food.
 
 # advertisement & defense
 
-<aside>
+<box>
 💡 claim territory + attract
 
-</aside>
+</box>
 
 even if it defecates, if the seeds are in the right condition... jelly like materials from inner gland is very pungent, and it shows as an advertisement to say Don't Come In. and this is for men and women → civets can advertise with their poop too
 
@@ -54,15 +54,15 @@ Siva: if you want to study the forests you can just record the sound in differen
 
 → birds: territorial displays or fights, common sandpipers.
 
-<aside>
+<box>
 💡 territorial fights happen when you're establishing your territory
 
-</aside>
+</box>
 
-<aside>
+<box>
 💡 and you still need to maintain their territory.
 
-</aside>
+</box>
 
 Chimpanzees: line up in a line and patrol. the lines that are outside mean that you can slowly expand your territory.
 
@@ -70,10 +70,10 @@ Chimpanzees: line up in a line and patrol. the lines that are outside mean that 
 
 # Why acquire territory? Aim for optimality
 
-<aside>
+<box>
 💡 optimality: if benefits > costs = fitness.
 
-</aside>
+</box>
 
 ## cost
 
@@ -86,10 +86,10 @@ Chimpanzees: line up in a line and patrol. the lines that are outside mean that 
 
 ### benefits
 
-<aside>
+<box>
 📌 Reduce the dangers and disadvantages of crowding
 
-</aside>
+</box>
 
 - Monopoly of food and nesting materials
   - (resources last longer, less depleted) + generally residents will be bigger
@@ -141,10 +141,10 @@ Initial cost – neighbours compete and set up territorial boundaries. But there
 
 ## What determines the outcome of battles
 
-<aside>
+<box>
 💡 the body makeup (how many individuals) + coordination ⇒ hyenas able to push away a few animals, then the hyena is forced to give up the kill.
 
-</aside>
+</box>
 
 (beverly & derrick Joubert, researchers in Africa)
 
@@ -163,10 +163,10 @@ Initial cost – neighbours compete and set up territorial boundaries. But there
 
 student measured 4 individual mudskippers maintaining their territory at low tide. the mudskipper uses the low tide to hunt, with its eyes on the top of the head, able to walk around
 
-<aside>
+<box>
 💡 mudskippers excavate the burrows, and navigate on their fins, and breath through their gills and skin when in the water. in water, fins just help them balance and navigate
 
-</aside>
+</box>
 
 from their burrow and the surrounding areas, they lie in wait to ambush crabs.
 

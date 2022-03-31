@@ -1,0 +1,18 @@
+# Logs
+*.log
+_markbind/logs/
+
+# Dependency directories
+node_modules/
+
+# Production
+_site/
+
+# Env
+.env
+.env.local
+
+# IDE configs
+.vscode/
+.idea/*
+*.iml

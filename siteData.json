@@ -1,0 +1,266 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "README.md",
+      "title": "",
+      "headings": {
+        "lsm1303-animal-behaviour": "LSM1303 Animal Behaviour",
+        "syllabus": "Syllabus",
+        "using-these-notes": "Using these notes",
+        "notes": "notes",
+        "cool-links": "cool links"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "about.md",
+      "title": "",
+      "headings": {
+        "about": "About"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Landing Page",
+      "headings": {
+        "lsm1303-animal-behaviour": "LSM1303 Animal Behaviour",
+        "syllabus": "Syllabus",
+        "using-these-notes": "Using these notes",
+        "notes": "notes",
+        "cool-links": "cool links"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Animal-Welfare.md",
+      "title": "",
+      "headings": {
+        "animal-welfare": "Animal Welfare",
+        "some-books-and-works": "Some books and works",
+        "laws-of-the-states": "Laws of the states",
+        "laws-not-enough-animal-welfare-groups-fill-the-gap": "Laws not enough: animal welfare groups fill the gap",
+        "cats": "Cats",
+        "gov-change": "Gov change",
+        "pet-abandonment": "Pet Abandonment",
+        "nus-organisations": "NUS organisations",
+        "exploitation-of-elephants-for-tourism": "Exploitation of Elephants for tourism"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Courtship-and-Mating.md",
+      "title": "",
+      "headings": {
+        "courtship-and-mating": "Courtship and mating",
+        "courtship": "courtship",
+        "419-asexual-vs-having-sex": "419: asexual vs having sex",
+        "448-finding-a-mate-steps-a-summary": "448 Finding a Mate Steps - a summary",
+        "one-attract-a-mate": "ONE: Attract a mate",
+        "scent-display-chemical-phermones-in-trilobite-beetles": "Scent Display (chemical phermones in trilobite + beetles)",
+        "41-visual-displays": "41: Visual Displays",
+        "83-sound-displays": "83 Sound Displays",
+        "147-suicidal-reproduction-strategy": "147: suicidal reproduction strategy",
+        "two-convince-the-mate-to-mate": "TWO: convince the mate to mate",
+        "11-404-courtship-behaviours-lead-to-reproductive-isolation": "(11-404): Courtship behaviours lead to reproductive isolation",
+        "why-courtship-signalling-synchronity-getting-on-the-same-page": "Why courtship signalling - Synchronity - Getting on the same page",
+        "getting-them-in-the-mood-for-sex": "Getting Them In The Mood For Sex",
+        "make-sure-the-time-is-right-to-mate": "Make sure the time is right to mate",
+        "three-sexual-selection": "THREE: sexual selection",
+        "bighorn-sheep": "Bighorn Sheep",
+        "elephant-seal": "Elephant seal",
+        "spiders": "Spiders",
+        "red-backed-spider": "Red-backed Spider",
+        "nephila-genital-plugs-man-just-breaks-off-his-dick": "Nephila genital plugs. man just breaks off his dick",
+        "sperm-removal": "Sperm removal"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Ecology-Concepts.md",
+      "title": "",
+      "headings": {
+        "ecology-concepts": "Ecology concepts",
+        "human-animal-interaction": "Human animal interaction",
+        "3-questions": "3 questions",
+        "tree-of-life-classifying-animals": "Tree of Life - classifying animals",
+        "innate-and-learned-behaviours": "Innate and Learned Behaviours",
+        "stimulus-and-response": "Stimulus and response",
+        "mechanisms-of-evolution-natural-selection": "Mechanisms of evolution - natural selection",
+        "territoriality": "Territoriality",
+        "innate-behaviour": "innate behaviour",
+        "learning": "Learning",
+        "conditioning": "Conditioning",
+        "play": "play",
+        "social-learning": "social learning",
+        "ethogram": "ethogram"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Foraging.md",
+      "title": "",
+      "headings": {
+        "foraging": "Foraging",
+        "2-foraging-is-a-series-of-discrete-decisions": "2. Foraging is a series of discrete decisions",
+        "steps-of-foraging": "Steps of Foraging",
+        "learning-by-trial-video": "Learning by Trial Video",
+        "when-does-a-cheetah-hunt": "When does a cheetah hunt?",
+        "cheetah-videos": "Cheetah videos",
+        "hyena": "hyena",
+        "3-diet-choice-and-strategies-and-food-handling": "3. Diet choice and strategies and food handling",
+        "predator-satiation": "predator satiation",
+        "herbivory": "Herbivory",
+        "folivory-leaves-stems-of-plant": "Folivory - leaves, stems of plant",
+        "frugivory-fruit-eaters": "Frugivory - fruit eaters",
+        "carnivory-insectivory": "carnivory, insectivory",
+        "omnivory-generalists-intelligent-cooperative-exploratory": "Omnivory: generalists, intelligent, cooperative, exploratory",
+        "5-optimal-patch-choice": "5. Optimal Patch Choice",
+        "marginal-value-theorem": "Marginal value theorem",
+        "how-long-to-stay-in-a-patch-charnov-s-marginal-value-theorem": "How long to stay in a patch? Charnov's marginal value theorem",
+        "6-optimal-prey-choice": "6. Optimal Prey Choice",
+        "7-avoiding-predation": "7. Avoiding predation",
+        "optimal-foraging": "Optimal foraging",
+        "optimal-prey-choice": "Optimal Prey choice",
+        "avoiding-predation": "Avoiding predation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Glossary-Animals.md",
+      "title": "",
+      "headings": {
+        "glossary-animals": "Glossary: Animals",
+        "singapore-animals": "Singapore Animals",
+        "cats": "Cats",
+        "otters": "Otters",
+        "long-tailed-macaques": "Long Tailed Macaques",
+        "fiddler-crabs": "Fiddler crabs",
+        "civet-cats": "Civet Cats",
+        "reticulated-python": "Reticulated Python",
+        "southern-pied-hornbill": "Southern pied hornbill",
+        "hawksbill-turtle": "Hawksbill Turtle",
+        "wild-pig": "Wild pig",
+        "giant-mudskippers": "Giant Mudskippers",
+        "frogs-and-bats": "Frogs and bats",
+        "hammerheaded-bat": "Hammerheaded bat",
+        "birds": "Birds",
+        "sharing-territory-pied-wagtail": "sharing territory: pied wagtail",
+        "greylag-goose": "Greylag goose",
+        "herring-gulls": "Herring Gulls",
+        "sexual-selection-displays": "Sexual selection displays",
+        "chicken": "Chicken",
+        "mammals": "Mammals",
+        "bighorn-sheep": "Bighorn Sheep",
+        "elephants": "Elephants",
+        "coatis": "Coatis",
+        "cheetahs": "Cheetahs",
+        "hyenas": "Hyenas",
+        "lions": "Lions",
+        "elephant-seals": "Elephant Seals",
+        "bees-wasps-hornets": "Bees, wasps, hornets",
+        "swarming-and-amp-safety": "Swarming &amp; safety",
+        "hornet-interaction": "hornet interaction",
+        "communication-karl-von-frisch": "Communication:  Karl von Frisch",
+        "western-honeybees": "Western honeybees",
+        "beewolf": "Beewolf",
+        "spiders": "Spiders",
+        "red-backed-spider-latrodectus-hasselti-australian-spider": "Red-backed Spider Latrodectus hasselti, Australian spider",
+        "nephila-genital-plugs-man-just-breaks-off-his-dick": "Nephila genital plugs. man just breaks off his dick",
+        "damselfly-and-dragonfly-and-beetles": "damselfly and dragonfly and beetles",
+        "black-winged-damselfly": "black-winged damselfly",
+        "mantis": "Mantis",
+        "insects": "Insects",
+        "lycid-beetles": "Lycid beetles",
+        "trilobite-beetles": "Trilobite beetles",
+        "cicadas": "Cicadas",
+        "other-primates": "Other primates",
+        "baboon": "Baboon",
+        "chimpanzee": "Chimpanzee",
+        "endangered-animals-kakapo": "Endangered Animals (kakapo)",
+        "mice": "Mice",
+        "avoid-male-aggression-in-lab-mice": "Avoid male aggression in lab mice",
+        "antechinus-mouse": "Antechinus mouse",
+        "fish": "Fish"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Glossary-Concepts.md",
+      "title": "",
+      "headings": {
+        "glossary-of-concepts": "Glossary of Concepts",
+        "innate-responses": "innate responses",
+        "learning": "Learning",
+        "latent-learning": "latent learning",
+        "social-learning": "social learning",
+        "conditioning": "Conditioning",
+        "sensitisation": "Sensitisation",
+        "habituation": "Habituation",
+        "play": "play",
+        "ethogram": "ethogram",
+        "foraging": "foraging",
+        "territoriality": "territoriality",
+        "types-of-territoriality": "types of territoriality",
+        "communication": "communication",
+        "group-living": "group living",
+        "human-wildlife-interactions": "human wildlife interactions"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Group-Behaviour.md",
+      "title": "",
+      "headings": {
+        "group-behaviour": "Group Behaviour",
+        "animal-groups": "Animal Groups",
+        "summary": "Summary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Introductory-Lecture.md",
+      "title": "",
+      "headings": {
+        "introductory-lecture": "Introductory Lecture",
+        "project-work": "Project work",
+        "idk-what-heading": "idk what heading",
+        "roadkills": "Roadkills",
+        "history": "history",
+        "traits": "Traits",
+        "other-animals-we-can-t-study-lol": "other animals we can't study lol",
+        "wildlife-in-singapore": "Wildlife in Singapore",
+        "forests": "Forests",
+        "": "",
+        "summary": "Summary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "notes/Territoriality.md",
+      "title": "",
+      "headings": {
+        "territoriality": "Territoriality",
+        "advertisement-and-amp-defense": "advertisement &amp; defense",
+        "bird-song-at-dawn": "Bird song at dawn",
+        "proximal-signals": "Proximal signals",
+        "why-acquire-territory-aim-for-optimality": "Why acquire territory? Aim for optimality",
+        "cost": "cost",
+        "benefits": "benefits",
+        "always-expand": "always expand?",
+        "advertistment-and-defence": "Advertistment and defence",
+        "territorial-strategies": "territorial strategies",
+        "dear-enemy-effect": "dear enemy effect",
+        "what-determines-the-outcome-of-battles": "What determines the outcome of battles",
+        "do-territories-ever-shrink": "Do territories ever shrink?",
+        "tidal-territorial-compression-in-giant-mudskippers": "Tidal territorial compression in giant mudskippers",
+        "natal-compression-in-smooth-coated-otters": "Natal Compression in smooth-coated otters",
+        "why-do-territory-holders-always-win": "Why do territory holders always win?",
+        "symmetrical-contests": "Symmetrical contests",
+        "types-of-territory": "Types of Territory"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
